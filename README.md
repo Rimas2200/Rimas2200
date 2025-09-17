@@ -1,16 +1,24 @@
-## Hi there 👋
+# Дмитрий Карпенко  
 
-<!--
-**Rimas2200/Rimas2200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ML Engineer | Python Developer | Data Scientist**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Навыки
+- **Языки:** Python, C++, Dart  
+- **ML и CV:** NumPy, Pandas, Scikit-learn, OpenCV, TensorFlow, Keras  
+- **Разработка:** Git, PyCharm, VS Code, Node.js, Flutter  
+- **Методы:** компьютерное зрение, обработка изображений, машинное обучение, численные методы  
+
+---
+
+## Достижения
+- Хакатон «Цифровая телемедицина» — 1 место. (Team Lead, Data Scientist)
+- Хакатон НЕЙМАРК — 3 место (Team Lead, Dart Developer).  
+- Участие в 5+ хакатонах (УФО, EVRAZ 2.0 и др.).  
+
+---
+
+## Контакты
+- Email: dmitrij.karpenko.83@inbox.ru  
+- Telegram: [@FranasRim](https://t.me/FranasRim)
